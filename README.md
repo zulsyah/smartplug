@@ -1,9 +1,9 @@
 # Smart Plug v1.0
 Smart plug using TTGO T-Call ESP32 with GSM Module
 
-by - AZ Putra (zulsyah7@gmail.com)
-   - Hafiz Ismail (a165174@siswa.ukm.edu.my)
-   - Din Concodei (din@din.com)
+- AZ Putra (zulsyah7@gmail.com)
+- Hafiz Ismail (a165174@siswa.ukm.edu.my)
+- Din Concodei (din@din.com)
 
 # Bahasa Melayu #
 

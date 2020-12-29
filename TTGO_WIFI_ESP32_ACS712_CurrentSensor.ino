@@ -25,11 +25,11 @@ double analogBit = 1024.0;
 //int offsetWattRMS = 25;
 String customerName= "AZ Putra";
 
-char auth[] = "kYFm31kLGq31keUgn2hqDpauc8sKvjSG";
+char auth[] = "Your Blynk Auth Token";
 
-String WiFiSSID = "din.wanisa";
-char ssid[] = "din.wanisa";
-char pass[] = "12345678";
+String WiFiSSID = "Your SSID";
+char ssid[] = "Your SSID";
+char pass[] = "Your WiFi password";
 
 bool result;
 bool s1;

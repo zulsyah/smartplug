@@ -54,7 +54,7 @@ char pass[] = "Your WiFi password";
 //Token Blynk anda
 char auth[] = "Your Blynk Auth";
 
-//Nama dan kataluan WiFi anda
+//APN Telco and (abaikan user/pass) *isi jika perlu
 char apn[] = "Your Telco APN";
 char user[] = "";
 char pass[] = "";

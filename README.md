@@ -23,8 +23,6 @@ Projek ini mempunyai dua mod konektiviti iaitu sama ada menggunakan WiFi atau GS
 
 Jika anda ingin menggunakan kad sim sebagai konektiviti Intenet, anda boleh memasukkan kad sim anda (pastikan anda mempunyai pelan data Internet yang masih aktif) ke dalam modul tersebut. Jika tidak, anda boleh terus mengikut tutorial di bawah.
 
-Untuk memuat turun kod Arduino, sila muat turun fail yang bernama `ESP8266_SmartCar.ino`.
-
 ### Cara penggunaan sistem ini (WiFi)
 
 1. Buka fail `TTGO_WIFI_ESP32_ACS712_CurrentSensor.ino` menggunakan Arduino IDE
@@ -57,13 +55,12 @@ char pass[] = "Your WiFi password";
 char auth[] = "Your Blynk Auth";
 
 //Nama dan kataluan WiFi anda
-char ssid[] = "Your SSID";
-char pass[] = "Your WiFi password";
+char apn[] = "Your Telco APN";
+char user[] = "";
+char pass[] = "";
 ```
-5. Simpan dan muat naik kod tersebut ke ESP8266
-6. Buka fail `HondaCRV_RD1_smartcar.aia` dengan mengimport ke MIT App Inventor
-7. Cari `global token` dan ubah kepada token Blynk anda seperti dibawah
-<p align="centre"> <img src="https://i.imgur.com/xWP7rzB.jpg"> </p>
+5. Simpan dan muat naik kod tersebut ke TTGO T-Call ESP32 SIM800L
+6. Buka 'Serial Monitor' dan lihat data tersebut (Arus dan Volt) dipancarkan.
 
 ### Antara muka pengguna aplikasi ini
 

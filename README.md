@@ -80,10 +80,9 @@ Bil | Nama modul | Kuantiti | Pautan pembelian
 5 | 128x64 OLED Screen | 1 | https://shopee.com.my/product/33091591/2353226119
 6 | USB Charger 3A | 1 | https://shopee.com.my/Four-USB-Port-3-Pin-Plug-UK-Mains-Wall-Charger-Adaptor-Samsung-Apple-Tablet-FAST-CHARGING-CHARGER-i.237476310.6737584818
 7 | Project Box 8x6 inch | 1 | https://shopee.com.my/PVC-Multipurpose-Waterproof-Weatherproof-Electronic-Project-Enclosure-Box-(-8x6-8x6XH-10X8-10X8-XH-12X9X6)-i.47940013.5800748480
-8 | Voltage Sensor Module | 2 | https://shopee.com.my/product/132528683/2883120650
-9 | DHT11 Temperature and Humidity Sensor Module | 1 | https://shopee.com.my/product/132528683/2011544803
-10 | MB102 830 Holes Large Solderless Breadboard | 1 | https://shopee.com.my/product/132528683/2006168670
-
+8 | AC 13A Power Cord UK Type | 1 | https://shopee.com.my/3-PIN-1.5M-UK-13A-Fuse-Desktop-PC-LCD-Monitor-Laptop-Printer-Power-Supply-Cord-Cable-Wire-i.84395776.4534990464
+9 | Female Socket AC 13A with Switch/Fuse | 1 | https://shopee.com.my/Electronic-module-three-core-power-cord-plug-socket-male-head-female-head-charging-product-word-plug-extension-cord-AC-power-pure-copper-holder-i.132710881.5656539921
+10 | Universal Wall Socket 13A | 2 | https://shopee.com.my/HIGH-QUALITY-UNIVERSAL-SINGLE-13A-WALL-SWITCH-SOCKET-NEON-1-GANG-i.211474656.6012302504
 ## Senarai perpustakaan yang digunakan
 
 Spi | Wire | Adafruit_GFX | Adafruit_SH110X | WiFiClient

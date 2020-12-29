@@ -9,6 +9,10 @@ Assalamualaikum, syukur ke hadrat ilahi kerana dengan kurniaNya saya dapat mengh
 
 Laman Github ini mengandungi kod sumber Arduino (source code) bagi modul TTGO T-Call ESP32 SIM800L. Format fail tersebut adalah (.ino).
 
+Projek ini mempunyai dua mod konektiviti iaitu sama ada menggunakan WiFi atau GSM (EDGE/GPRS). Oleh itu, modul TTGO T-Call ESP32 SIM800L ini dilengkapkan dengan slot kad sim.
+
+Jika anda ingin menggunakan kad sim sebagai konektiviti Intenet, anda boleh memasukkan kad sim anda (pastikan anda mempunyai pelan data Internet yang masih aktif) ke dalam modul tersebut. Jika tidak, anda boleh terus mengikut tutorial di bawah.
+
 Untuk memuat turun kod Arduino, sila muat turun fail yang bernama `ESP8266_SmartCar.ino`.
 
 ### Cara penggunaan sistem ini (WiFi)

@@ -1,11 +1,21 @@
 # Smart Plug v1.0
 Smart plug using TTGO T-Call ESP32 with GSM Module
 
-by AZ Putra (zulsyah7@gmail.com)
+by - AZ Putra (zulsyah7@gmail.com)
+   - Hafiz Ismail (a165174@siswa.ukm.edu.my)
+   - Din Concodei (din@din.com)
 
 # Bahasa Melayu #
 
 Assalamualaikum, syukur ke hadrat ilahi kerana dengan kurniaNya saya dapat menghasilkan projek ini. Projek ini masih tidak siap sepenuhnya tapi saya berpuas hati dengan apa yang saya dapat capai.
+
+## Fungsi projek ini
+
+1. Mengawal soket elektrik secara individu 
+2. Mengira penggunaan elektrik bagi setiap soket atau keseluruhan soket
+3. Merekod semua data penggunaan elektrik ke pangkalan data (MySQL)
+4. Mengira kadar caj elektrik berdasarkan tariff TNB Malaysia
+5. Merekod kadar caj elektrik ke pangkalan data (MySQL)
 
 Laman Github ini mengandungi kod sumber Arduino (source code) bagi modul TTGO T-Call ESP32 SIM800L. Format fail tersebut adalah (.ino).
 

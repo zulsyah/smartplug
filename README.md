@@ -7,7 +7,7 @@ Smart plug using TTGO T-Call ESP32 with GSM Module
 
 # Bahasa Melayu #
 
-Assalamualaikum, syukur ke hadrat ilahi kerana dengan kurniaNya kami dapat menghasilkan projek ini. Projek ini masih tidak siap sepenuhnya tapi kami berpuas hati dengan apa yang kami dapat capai.
+Assalamualaikum, syukur ke hadrat ilahi kerana dengan kurniaNya saya dapat menghasilkan projek ini. Projek ini masih tidak siap sepenuhnya tapi saya berpuas hati dengan apa yang saya dapat capai.
 
 ## Fungsi projek ini
 
@@ -77,9 +77,9 @@ Bil | Nama modul | Kuantiti | Pautan pembelian
 2 | 4-channel relays 5v | 1 | https://shopee.com.my/Arduino-IoT-4-Channel-Ways-Opto-Isolator-10A-5V-Relay-Module-i.33091591.733102947
 3 | ACS712 20A Current Sensor | 2 | https://shopee.com.my/ACS712-Arduino-Current-Sensor-Module-5A-20A-30A-i.23949362.858209494
 4 | ZMPT101B AC Voltage Sensor | 1 | https://shopee.com.my/AC-Voltage-Sensor-Module-ZMPT101B-(Single-Phase)-i.40459773.6806793152
-5 | Mini DC-DC 4.5-24V to 5V 3A Step Down | 1 | https://shopee.com.my/product/33091591/2353226119
-6 | ADS1115 16-bit Analog to Digital Converter | 1 | https://shopee.com.my/product/132528683/6917873642
-7 | PCF8574T I2C IIC Extension Board | 2 | https://shopee.com.my/product/132528683/5931423335
+5 | 128x64 OLED Screen | 1 | https://shopee.com.my/product/33091591/2353226119
+6 | USB Charger 3A | 1 | https://shopee.com.my/Four-USB-Port-3-Pin-Plug-UK-Mains-Wall-Charger-Adaptor-Samsung-Apple-Tablet-FAST-CHARGING-CHARGER-i.237476310.6737584818
+7 | Project Box 8x6 inch | 1 | https://shopee.com.my/PVC-Multipurpose-Waterproof-Weatherproof-Electronic-Project-Enclosure-Box-(-8x6-8x6XH-10X8-10X8-XH-12X9X6)-i.47940013.5800748480
 8 | Voltage Sensor Module | 2 | https://shopee.com.my/product/132528683/2883120650
 9 | DHT11 Temperature and Humidity Sensor Module | 1 | https://shopee.com.my/product/132528683/2011544803
 10 | MB102 830 Holes Large Solderless Breadboard | 1 | https://shopee.com.my/product/132528683/2006168670

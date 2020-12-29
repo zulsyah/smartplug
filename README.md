@@ -64,10 +64,10 @@ char pass[] = "";
 5. Simpan dan muat naik kod tersebut ke TTGO T-Call ESP32 SIM800L
 6. Buka 'Serial Monitor' dan lihat data tersebut (Arus dan Volt) dipancarkan.
 
-## Antara muka pengguna aplikasi ini
+## Antara muka dalam aplikasi Blynk
 
 Aplikasi ini hanya mempunyai satu antara muka sahaja.
-<p align="centre"> <img src="https://i.imgur.com/OzQiomU.jpg" width="25%" height="25%"> </p>
+<p align="centre"> <img src="https://imgur.com/a/C7WV6dA" width="25%" height="25%"> </p>
 
 ## Senarai modul / sensor yang digunakan
 

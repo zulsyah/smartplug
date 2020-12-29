@@ -13,10 +13,11 @@ Untuk memuat turun kod Arduino, sila muat turun fail yang bernama `ESP8266_Smart
 
 ### Cara penggunaan sistem ini (WiFi)
 
-1. Buka fail `ESP8266_SmartCar.ino` menggunakan Arduino IDE
+1. Buka fail `TTGO_WIFI_ESP32_ACS712_CurrentSensor.ino` menggunakan Arduino IDE
 2. Muat turun aplikasi Blynk dari Google Play Store pada telefon anda
 3. Daftarkan ESP32 Devkit anda dan dapatkan token Blynk anda menggunakan aplikasi tersebut
-4. Ubah nama dan katalaluan WiFi anda serta token Blynk yang anda perolehi tadi
+4. Pastikan anda memilih WiFi sebagai 'Connection Type'
+5. Ubah nama dan katalaluan WiFi anda serta token Blynk yang anda perolehi tadi
 
 ```java
 //Token Blynk anda
@@ -33,10 +34,11 @@ char pass[] = "Your WiFi password";
 
 ### Cara penggunaan sistem ini (GSM)
 
-1. Buka fail `ESP8266_SmartCar.ino` menggunakan Arduino IDE
+1. Buka fail `TTGO_GSM_ESP32_ACS712_CurrentSensor.ino` menggunakan Arduino IDE
 2. Muat turun aplikasi Blynk dari Google Play Store pada telefon anda
 3. Daftarkan ESP32 Devkit anda dan dapatkan token Blynk anda menggunakan aplikasi tersebut
-4. Ubah nama dan katalaluan WiFi anda serta token Blynk yang anda perolehi tadi
+4. Pastikan anda memilih GSM sebagai 'Connection Type'
+5. Ubah apn mengikut kesesuaian Telco anda serta token Blynk yang anda perolehi tadi
 
 ```java
 //Token Blynk anda

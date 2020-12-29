@@ -31,10 +31,8 @@ char auth[] = "Your Blynk Auth";
 char ssid[] = "Your SSID";
 char pass[] = "Your WiFi password";
 ```
-5. Simpan dan muat naik kod tersebut ke ESP8266
-6. Buka fail `HondaCRV_RD1_smartcar.aia` dengan mengimport ke MIT App Inventor
-7. Cari `global token` dan ubah kepada token Blynk anda seperti dibawah
-<p align="centre"> <img src="https://i.imgur.com/xWP7rzB.jpg"> </p>
+5. Simpan dan muat naik kod tersebut ke TTGO T-Call ESP32 SIM800L
+6. Buka 'Serial Monitor' dan lihat data tersebut (Arus dan Volt) dipancarkan.
 
 ### Cara penggunaan sistem ini (GSM)
 

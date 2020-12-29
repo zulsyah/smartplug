@@ -36,11 +36,11 @@ int vin = 5;
 int offsetWattRMS = 15;
 String customerName= "AZ Putra";
 
-char auth[] = "kYFm31kLGq31keUgn2hqDpauc8sKvjSG";
+char auth[] = "Your Blynk Auth Token";
 
 // Your GPRS credentials
 // Leave empty, if missing user or pass
-char apn[]  = "celcom3g"; //Celcom Malaysia APN
+char apn[]  = "Your APN"; //Celcom Malaysia APN
 char user[] = "";
 char pass[] = "";
 

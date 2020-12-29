@@ -7,7 +7,7 @@ Smart plug using TTGO T-Call ESP32 with GSM Module
 
 # Bahasa Melayu #
 
-Assalamualaikum, syukur ke hadrat ilahi kerana dengan kurniaNya saya dapat menghasilkan projek ini. Projek ini masih tidak siap sepenuhnya tapi saya berpuas hati dengan apa yang saya dapat capai.
+Assalamualaikum, syukur ke hadrat ilahi kerana dengan kurniaNya kami dapat menghasilkan projek ini. Projek ini masih tidak siap sepenuhnya tapi kami berpuas hati dengan apa yang kami dapat capai.
 
 ## Fungsi projek ini
 

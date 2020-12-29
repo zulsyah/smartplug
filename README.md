@@ -67,7 +67,7 @@ char pass[] = "";
 ## Antara muka dalam aplikasi Blynk
 
 Aplikasi ini hanya mempunyai satu antara muka sahaja.
-<p align="centre"> <img src="https://imgur.com/a/C7WV6dA" width="25%" height="25%"> </p>
+<p align="centre"> <img src="https://i.imgur.com/dnVdc89.jpg" width="25%" height="25%"> </p>
 
 ## Senarai modul / sensor yang digunakan
 

@@ -17,6 +17,8 @@ Assalamualaikum, syukur ke hadrat ilahi kerana dengan kurniaNya saya dapat mengh
 4. Mengira kadar caj elektrik berdasarkan tariff TNB Malaysia
 5. Merekod kadar caj elektrik ke pangkalan data (MySQL)
 
+## Pengenalan projek
+
 Laman Github ini mengandungi kod sumber Arduino (source code) bagi modul TTGO T-Call ESP32 SIM800L. Format fail tersebut adalah (.ino).
 
 Projek ini mempunyai dua mod konektiviti iaitu sama ada menggunakan WiFi atau GSM (EDGE/GPRS). Oleh itu, modul TTGO T-Call ESP32 SIM800L ini dilengkapkan dengan slot kad sim.
@@ -62,12 +64,12 @@ char pass[] = "";
 5. Simpan dan muat naik kod tersebut ke TTGO T-Call ESP32 SIM800L
 6. Buka 'Serial Monitor' dan lihat data tersebut (Arus dan Volt) dipancarkan.
 
-### Antara muka pengguna aplikasi ini
+## Antara muka pengguna aplikasi ini
 
 Aplikasi ini hanya mempunyai satu antara muka sahaja.
 <p align="centre"> <img src="https://i.imgur.com/OzQiomU.jpg" width="25%" height="25%"> </p>
 
-### Senarai modul / sensor yang digunakan
+## Senarai modul / sensor yang digunakan
 
 Bil | Nama modul | Kuantiti | Pautan pembelian
 ------------- | ------------- | ------------- | ------------- |
@@ -82,7 +84,7 @@ Bil | Nama modul | Kuantiti | Pautan pembelian
 9 | DHT11 Temperature and Humidity Sensor Module | 1 | https://shopee.com.my/product/132528683/2011544803
 10 | MB102 830 Holes Large Solderless Breadboard | 1 | https://shopee.com.my/product/132528683/2006168670
 
-### Senarai perpustakaan yang digunakan
+## Senarai perpustakaan yang digunakan
 
 BlynkSimpleEsp32 | ESP8266WiFi | dht11 | SoftwareSerial
 ----- | ----- | ----- | ----- |
